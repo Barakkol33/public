@@ -1,7 +1,5 @@
 # DevOps Monitoring with Prometheus, Loki & Grafana
 
-> A compact, presentation-ready guide you can drop into any docs site or slides tool that supports Markdown (and Mermaid).
-
 ---
 
 ## Table of Contents
